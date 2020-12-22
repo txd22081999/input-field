@@ -1,4 +1,4 @@
-const form = document.querySelector('form');
+const form = document.querySelector('.wrapper');
 const notify = document.querySelector('.notify');
 const input = document.querySelector('input')
 const send = document.querySelector('.send');
